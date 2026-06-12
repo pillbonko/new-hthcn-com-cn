@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pillbonko.github.io/new-hthcn-com-cn/sitemap.xml
